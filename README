@@ -1,0 +1,69 @@
+# Hello, I'm Abel!
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+I recently obtained a certificate in analysis and operationlal cybersecurity in the <a href= "https://www.polymtl.ca/">University of Polytechnique Montreal</a> and I have been acquiring hands on experience on my own doing CTF's on websites like <a href="https://app.hackthebox.com/home">Hackthebox</a> or working on my own virtual Lab.
+
+## Objective
+
+My Journey has been full of bumps and that's what made me so passionate about cybersecurity. It's a forever evolving field and there is not one that gos by without me learning something new. I aspire to get into the field to showcase my experience and acquire some as well.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          |SOC Automation Lab|
+| Network Traffic Monitoring and incident Detection|SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| packet analysis                               | SOC Automation Lab|
+| File analysis                                 | SOC Automation Lab|
+| Log parsing                                   | SOC Automation Lab|
+| Vulnerability scanning                        | SOC Automation Lab|
+| Identity and Access Manangement               | SOC Automation Lab|
+| File extraction                               | SOC Automation Lab|
+| ICMP & DNS tunneling                          | SOC Automation Lab|
+| Purple teaming                                | SOC Automation Lab|
+
+## Tools
+
+### IAM
+<div>
+    <img src="https://img.shields.io/badge/-Active%20Directory-00ADEF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</div>
+
+### Packet analysis
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge" />
+
+### IDS/IPS
+<div>
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Honeypot-FFD700?&style=for-the-badge" />
+</div>
+
+### Vulnerability scanning
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-3776AB?&style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
+### File analysis
+<div>
+    <img src="https://img.shields.io/badge/-YARA-5C2D91?&style=for-the-badge" />
+
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-E62B1E?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Sysmon-737373?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?&style=for-the-badge" />
+
+</div>
+
+## Projects
+- Detection Labs
