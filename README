@@ -1,7 +1,6 @@
 # Hello, I'm Abel!
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
 I recently obtained a certificate in analysis and operationlal cybersecurity in the <a href= "https://www.polymtl.ca/">University of Polytechnique Montreal</a> and I have been acquiring hands on experience on my own doing CTF's on websites like <a href="https://app.hackthebox.com/home">Hackthebox</a> or working on my own virtual Lab.
 
 ## Objective
@@ -29,13 +28,13 @@ My Journey has been full of bumps and that's what made me so passionate about cy
 ### IAM
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-00ADEF?&style=for-the-badge&logo=microsoft&logoColor=white" />
-
 </div>
 
 ### Packet analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge" />
+</div>
 
 ### IDS/IPS
 <div>
@@ -53,7 +52,6 @@ My Journey has been full of bumps and that's what made me so passionate about cy
 ### File analysis
 <div>
     <img src="https://img.shields.io/badge/-YARA-5C2D91?&style=for-the-badge" />
-
 </div>
 
 ### SIEM
@@ -62,7 +60,6 @@ My Journey has been full of bumps and that's what made me so passionate about cy
     <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-E62B1E?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Sysmon-737373?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?&style=for-the-badge" />
-
 </div>
 
 ## Projects
